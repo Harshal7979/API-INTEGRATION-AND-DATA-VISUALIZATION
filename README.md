@@ -4,6 +4,12 @@ NAME : PRABHAT HARSHAL
 INTERN ID : 
 
 DOMAIN : PYTHON PROGRAMMING
+
+DURATION :
+
+MENTOR NAME : NEELA SANTOSH 
+
+
 Weather Dashboard with Python, Requests, and Seaborn
 
 This project demonstrates how to build a simple weather dashboard using the OpenWeatherMap API, Python's requests library, and data visualization with matplotlib and seaborn. The dashboard displays the current temperatures of various global cities in a visually intuitive bar chart.
